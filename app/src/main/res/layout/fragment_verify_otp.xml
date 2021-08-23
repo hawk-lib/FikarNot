@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:background="@color/colorGreen"
+    tools:context=".ui.authentication.VerifyOTPFragment">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="50dp"
+            android:background="@drawable/authentication_bg">
+            <LinearLayout
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/verification_code_otp_has_been_sent_to" />
+        <TextView
+            android:id="@+id/phone_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/colorBlack"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/change_mobile_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingVertical="10dp"
+            android:paddingHorizontal="30dp"
+            android:textColor="@color/colorWhite"
+            android:background="@drawable/negative_button"
+            android:text="@string/change_mobile_number"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="50dp"
+            android:textAllCaps="false"/>
+
+
+        <EditText
+            android:id="@+id/verification_codeET"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:gravity="center_vertical"
+            android:textSize="20sp"
+            android:hint="@string/enter_verification_code"
+            android:inputType="number"
+            android:imeOptions="actionGo"
+            android:background="@drawable/transparent_edittext"
+            android:backgroundTint="@color/colorWhite"
+            android:backgroundTintMode="add"
+            android:paddingHorizontal="15dp"
+            android:maxLength="6"
+            android:autofillHints="@string/enter_verification_code" />
+
+
+
+
+
+        <Button
+            android:id="@+id/submitBT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:paddingHorizontal="30dp"
+            android:layout_marginBottom="30dp"
+            android:paddingVertical="10dp"
+            android:layout_gravity="end"
+            android:text="@string/submit"
+            android:textColor="@color/colorWhite"
+            android:background="@drawable/positive_button"
+            android:textAllCaps="false"/>
+
+
+    </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

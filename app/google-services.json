@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54253639501",
+    "project_id": "fikarnot-f445f",
+    "storage_bucket": "fikarnot-f445f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54253639501:android:1ccdfb7d93939424054904",
+        "android_client_info": {
+          "package_name": "com.fikarnot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54253639501-dfp0gs2kua0lr9aje7nelc4ib8ct9dcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrruK021J_PcFf_XQzl5zciYbrWmeOqVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54253639501-dfp0gs2kua0lr9aje7nelc4ib8ct9dcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

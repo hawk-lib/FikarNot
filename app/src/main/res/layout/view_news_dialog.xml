@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorGreen"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+            <ProgressBar
+                android:id="@+id/progressbar"
+                android:visibility="gone"
+                style="@android:style/Widget.ProgressBar.Horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:layout_marginEnd="5dp" />
+            <TextView
+                android:id="@+id/result"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:layout_marginStart="15dp"
+                android:text="@string/just_a_sec"
+                android:textColor="@color/colorWhite"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_gravity="end"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/colorWhite"
+            android:gravity="center"
+            android:id="@+id/progress" />
+
+        <ImageView
+            android:id="@+id/stop"
+            android:layout_width="46dp"
+            android:layout_height="40dp"
+            android:paddingHorizontal="6dp"
+            android:layout_gravity="end"
+            android:background="@drawable/cancel_button"
+            android:src="@drawable/ic_cancel"
+            android:contentDescription="@string/cancel_logo" />
+
+    </LinearLayout>
+
+    <WebView
+        android:id="@+id/web_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:paddingTop="20dp" />
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="none" >
+        <item
+            android:id="@+id/change_pin"
+            android:icon="@drawable/change_drawable"
+            android:title="Change PIN" />
+        <item
+            android:id="@+id/share_fikarnot"
+            android:icon="@drawable/ic_share"
+            android:title="Share Fikarnot with Friends" />
+        <item
+            android:id="@+id/feedback"
+            android:icon="@drawable/ic_feedback"
+            android:title="Send Feedback" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_about"
+            android:title="About" />
+    </group>
+
+
+
+</menu>
