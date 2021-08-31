@@ -1,5 +1,14 @@
 # Password Manager
-## Download
+### Download
+<a href="https://github.com/hawk-lib/password-manager/releases/download/app/FikarNot-alpha-v1.0.apk" class="button">
+Downlod</a>
 <br><br>
-<a href="https://github.com/hawk-lib/password-manager/releases/download/app/FikarNot-alpha-v1.0.apk"><button style="background-color: #ff1100; width: 50%; height: 80;">
-Downlod</button></a>
+
+### Screenshots
+
+![logo](https://github.com/hawk-lib/password-manager/releases/download/fikarnot-alpha-v1.0/screenshot1.jpg)
+<br>
+![logo](https://github.com/hawk-lib/password-manager/releases/download/fikarnot-alpha-v1.0/screenshot2.jpg)
+<br>
+![logo](https://github.com/hawk-lib/password-manager/releases/download/fikarnot-alpha-v1.0/screenshot3.jpg)
+<br>
