@@ -7,8 +7,10 @@ Downlod</a>
 ### Screenshots
 
 ![logo](https://github.com/hawk-lib/password-manager/releases/download/fikarnot-alpha-v1.0/screenshot1.jpg)
-<br>
+<p align="center">Screenshot(1)</p><br><br>
+
 ![logo](https://github.com/hawk-lib/password-manager/releases/download/fikarnot-alpha-v1.0/screenshot2.jpg)
-<br>
+<p align="center">Screenshot(2)</p><br><br>
+
 ![logo](https://github.com/hawk-lib/password-manager/releases/download/fikarnot-alpha-v1.0/screenshot3.jpg)
-<br>
+<p align="center">Screenshot(3)</p><br>
