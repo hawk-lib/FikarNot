@@ -1,7 +1,11 @@
 # Password Manager
 ### Download
+ 
 <a href="https://github.com/hawk-lib/password-manager/releases/download/app/FikarNot-alpha-v1.0.apk" class="button">
-Downlod</a>
+Click here!</a> to download Password-Manager
+<br>
+Product: FikarNot-alpha-v1.0.apk<br>
+Download size: 4.8MB
 <br><br>
 
 ### Screenshots
