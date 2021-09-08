@@ -1,7 +1,5 @@
 # Password Manager
 A tool to store passwords in __cloud__.<br>
-# Password Manager for Android
-
 ## Download APK
 
 **<a href="https://github.com/hawk-lib/password-manager/releases/download/app/FikarNot-alpha-v1.0.apk" class="button">
