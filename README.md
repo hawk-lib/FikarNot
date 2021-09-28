@@ -1,9 +1,9 @@
 # Password Manager
 A tool to store passwords in __cloud__.<br>
 ## Download APK
-[<div align="center"><img align="center" width="600" height="150" src="https://github.com/hawk-lib/password-manager/releases/download/fikarnot-alpha-v1.0/description.png"></div>](#)
+[<div align="center"><img align="center" width="80%" height="80%" src="https://github.com/hawk-lib/password-manager/releases/download/fikarnot-alpha-v1.0/description.png"></div>](#)
 <br>
-<div align="center"><a href="https://github.com/hawk-lib/password-manager/releases/download/app/FikarNot-alpha-v1.0.apk"><img align="center" width="400" height="100" src="https://github.com/hawk-lib/password-manager/releases/download/fikarnot-alpha-v1.0/download.png"></a></div>
+<div align="center"><a href="https://github.com/hawk-lib/password-manager/releases/download/app/FikarNot-alpha-v1.0.apk"><img align="center" width="30%" height="30%" src="https://github.com/hawk-lib/password-manager/releases/download/fikarnot-alpha-v1.0/download.png"></a></div>
 
 <br><br>
 ## Screenshots
